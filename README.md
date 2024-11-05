@@ -16,3 +16,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+---
+### :man_technologist: Обо мне :
+
+Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: Начинающий web разработчик с 2х летним опытом разработки.
+
+- :seedling: Изучаю NextJs.
+
+- :zap: В свободное время занимаюсь 3D моделированием и 3D печатью.
+
+- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/H_a_l_v_a)
