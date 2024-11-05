@@ -41,8 +41,8 @@ Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :fire: Статистика:
 <div id="stats" align="center">
+### :fire: Статистика:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Halva1988&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halva1988)](https://github.com/anuraghazra/github-readme-stats)
 </div>
