@@ -9,4 +9,6 @@
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Halva1988&style=flat-square&color=blue" alt=""/>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Halva1988&style=flat-square&color=blue" alt=""/>
+</div>
