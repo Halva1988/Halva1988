@@ -20,7 +20,7 @@
 ### :man_technologist: Обо мне :
 
 Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: Начинающий web разработчик с 2х летним опытом разработки.
+- :telescope: Web разработчик с 2х летним опытом разработки.
 
 - :seedling: Изучаю NextJs.
 
